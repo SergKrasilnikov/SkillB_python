@@ -52,7 +52,6 @@ def hall():
     else:
         hall()
 
-
 def kitchen():
     num = int(input('Вы на кухне. Куда идем?\n1 - в коридор\n2 - в окно\n'))
     if num == 1:
@@ -61,7 +60,6 @@ def kitchen():
         print('You are dead.')
     else:
         kitchen()
-
 
 def bedroom():
     num = int(input('Вы в спальне. Куда идем?\n1 - в ванну\n2 - в коридор\n'))
@@ -72,13 +70,11 @@ def bedroom():
     else:
         bedroom()
 
-
 def bathroom():
     num = int(input('Вы в ванной. Куда идем?\n1 - в коридор\n'))
     if num == 1:
         hall()
     else:
         bathroom()
-
 
 hall()
