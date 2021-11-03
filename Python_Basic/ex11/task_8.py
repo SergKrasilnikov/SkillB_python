@@ -14,5 +14,4 @@ degree = h_degree / 30
 frac, integral = math.modf(degree)
 m_degree = frac * 360
 
-
 print('Минутная срелка повернулась на ', m_degree, 'градусов с начала последнего часа.')

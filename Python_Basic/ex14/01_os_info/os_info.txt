@@ -1,0 +1,5 @@
+OS info is 
+uname_result(system='Linux', node='venus-GP62MVR-7RF', release='5.11.0-38-generic', version='#42~20.04.1-Ubuntu SMP Tue Sep 28 20:41:07 UTC 2021', machine='x86_64')
+
+Python version is 3.9.5 (default, Jun  4 2021, 12:28:51) 
+[GCC 7.5.0] ('64bit', 'ELF')
