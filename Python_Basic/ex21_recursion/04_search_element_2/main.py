@@ -38,5 +38,3 @@ if value:
     print(value)
 else:
     print('Ключ отсутствует.')
-
-# зачёт!

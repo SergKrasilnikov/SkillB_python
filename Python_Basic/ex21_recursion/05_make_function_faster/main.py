@@ -22,5 +22,3 @@ while True:
     num = int(input('Входное число: '))
     a = calculating_math_func(num)
     print(a)
-
-# зачёт!

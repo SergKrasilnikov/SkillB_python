@@ -8,5 +8,3 @@ def fib(num):
 num_pos = int(input('Введите позицию числа в ряде Фибоначчи: '))
 pos = fib(num_pos)
 print(pos)
-
-# зачёт!

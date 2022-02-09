@@ -31,5 +31,3 @@ recursion(max_num)
 #
 # num = int(input('Конечное значение: '))
 # recursion(num)
-
-# зачёт!

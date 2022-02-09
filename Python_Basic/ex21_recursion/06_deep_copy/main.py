@@ -13,8 +13,6 @@ site = {
     }
 }
 
-# COMMENT Не получается разобраться с запятыми, получается какая-то дичь...
-
 def key_search(struct, word, count=4):
     a = list(struct.keys())
     key_tmp = a[0]
@@ -65,5 +63,3 @@ for i in range(num):
 #         print(value)
 #     else:
 #         print('Ключ отсутствует.')
-
-# зачёт!

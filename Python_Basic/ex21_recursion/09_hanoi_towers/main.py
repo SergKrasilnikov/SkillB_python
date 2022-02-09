@@ -11,5 +11,3 @@ def tower_of_hanoi(numbers, start, end):
 
 numbers = int(input('Кол-во дисков: '))
 tower_of_hanoi(numbers, 1, 2)
-
-# зачёт!
