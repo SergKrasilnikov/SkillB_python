@@ -1,0 +1,29 @@
+/* h1 {
+    font-size: 30px;
+    font-style: italic;
+} */
+
+/* * {
+    font-size: 30px;
+    font-style: italic;
+} */
+
+/* стилизация по классам */
+.heading {
+    font-size: 30px !important; /*если использовать important, то style в документе, если он есть, будет изменен.*/
+    font-style: italic;
+}
+
+/* использование id */
+/* #heading {
+    color: blue;
+} */
+
+
+
+/* body {
+    display: block;
+    background-color: #fafafa;
+    color: navajowhite;
+    font-size: 30px;
+} */
