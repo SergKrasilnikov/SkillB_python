@@ -1,0 +1,44 @@
+html {
+	box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+	box-sizing: inherit;
+}
+
+p {
+    margin-bottom: 40px;
+    width: 872px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    color: #333;
+}
+
+.blocks {
+    border-radius: 20px;
+    padding: 30px;
+    margin-bottom: 40px;
+    background-color: #f3f3f3;
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.block-background-1 {
+    background-image: url("../img/img1.png");
+}
+.block-background-2 {
+    background-image: url("../img/img2.png");
+}
+.block-background-3 {
+    background-image: url("../img/img3.png");
+}
+.block-background-4 {
+    background-image: url("../img/img4.png");
+}
+.block-background-5 {
+    background-image: url("../img/img5.png");
+}
